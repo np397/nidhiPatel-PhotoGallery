@@ -1,0 +1,34 @@
+{
+    "images": [
+        {
+            "imgPath": "img/collection/dubai.png",
+            "imgLocation": "Dubai",
+            "description": "Burj Al Arab",
+            "date": "06/21/2015"
+        },
+        {
+            "imgPath": "img/collection/sydney.png",
+            "imgLocation": "Australia",
+            "description": "Sydney Opera House",
+            "date": "05/06/2013"
+        },
+        {
+            "imgPath": "img/collection/singapore.png",
+            "imgLocation": "Singapore",
+            "description": "Marina Bay Sands",
+            "date": "07/05/2014"
+        },
+        {
+            "imgPath": "img/collection/london.png",
+            "imgLocation": "United Kingdom",
+            "description": "London Eye",
+            "date": "01/04/2016"
+        },
+        {
+            "imgPath": "img/collection/newYork.png",
+            "imgLocation": "USA",
+            "description": "Statue of Liberty",
+            "date": "01/02/2016"
+        }
+  ]
+}
