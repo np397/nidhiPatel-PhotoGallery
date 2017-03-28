@@ -82,7 +82,7 @@ mRequest.onreadystatechange = function() {
 	if (mRequest.readyState == 4 && mRequest.status == 200) {
 		try { 
 			mJson = JSON.parse(mRequest.responseText);
-			console.log(mJson);
+			
 			
 			for(var i=0; i < mJson.images.length;i++)
 			{
@@ -119,7 +119,6 @@ $(document).ready( function() {
 	{
 		mCurrentIndex -= 2;
 		swapPhoto();
-		console.log(mCurrentIndex);
 	});
 	
 	$("#nextPhoto").click(function()
